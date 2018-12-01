@@ -1,0 +1,20 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "moment": "^2.22.2",
+    "monk": "^6.0.6",
+    "xml": "^1.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  }
+}

@@ -27,8 +27,8 @@ export default () => {
         >
           <ul className="nav navbar-nav navbar-right">
             <li>
-              <Link to="/aboutus" className="navbar-btn">
-                About us{" "}
+              <Link to="/about" className="navbar-btn">
+                About us
               </Link>
             </li>
             <li>
